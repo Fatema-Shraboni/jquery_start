@@ -1,0 +1,16 @@
+.panel{
+  padding: 20px 20px;
+  background-color: #ddd;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.content{
+	padding: 30px 20px;
+	background-color: #ddd;
+	display: none;
+}
+.animation{
+	height: 100px;
+	width: 100px;
+	background-color:#98bf21;
+}
